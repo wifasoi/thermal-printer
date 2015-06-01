@@ -94,4 +94,6 @@ void PrintLN(boolean line[]){
   delay(P_time);
   digitalWrite(Print5, HIGH);
   
+  newLN();
+  
 }
